@@ -6,7 +6,8 @@ import datetime
 
 
 class User:
-    pass  # код писать тут
+    def get_age(self):
+        pass
 
 
 if __name__ == "__main__":
