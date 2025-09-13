@@ -9,7 +9,7 @@ import datetime
 
 
 class User:
-    pass  # код писать тут
+    first_name = ''
 
 
 if __name__ == "__main__":
